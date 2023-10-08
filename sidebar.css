@@ -185,7 +185,7 @@ body {
   } */
 
 
-@media (max-width:350px){
+@media (max-width:600px){
   .container{
   display: grid;
      grid-template-columns: repeat(1,1fr);
@@ -207,7 +207,7 @@ body {
     height: 21.5px;
     margin-right: 10px;
     /* background-color: red; */
-    left:6vw
+    left:4vw
   }
   .menubar input{
     position:relative;
